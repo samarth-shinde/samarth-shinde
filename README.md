@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samarth-shinde
-- 👀 I’m interested in ML/AI 
-- 🌱 I’m currently learning CSE
+- 👀 I’m interested in ML/AI/Web
+- 🌱 I’m currently learning Backend Devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
