@@ -25,8 +25,9 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samarth-shinde&icon=7&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samarthshinde247&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=samarthshinde247&redirect=true)
+
+[![](https://visitcount.itsvg.in/api?id=samarth-shinde&icon=7&color=5)](https://visitcount.itsvg.in)
