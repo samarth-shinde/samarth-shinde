@@ -23,17 +23,3 @@
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samarth-shinde&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samarth-shinde&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-shinde&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![](https://visitcount.itsvg.in/api?id=samarth-shinde&icon=7&color=5)](https://visitcount.itsvg.in)
