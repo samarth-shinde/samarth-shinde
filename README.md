@@ -30,24 +30,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-shinde&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samarth-shinde&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samarth-shinde&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samarthshinde247&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=samarthshinde247&redirect=true)
 
 [![](https://visitcount.itsvg.in/api?id=samarth-shinde&icon=7&color=5)](https://visitcount.itsvg.in)
