@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm a devoted developer, weaving my expertise within the vibrant tapestry of DevX, a thriving startup. 🚀 My tech odyssey traverses the realms of React, Django, JavaScript, Python, Nest.js, Next.js, Gatsby, and the expansive universe of Amazon AWS. ⚡️ My quest is to architect elegant, forward-thinking solutions that push the boundaries of what's possible. Let's embark on a coding journey and craft digital wonders together! 🌟
+👋 Hey there! I’m a software engineer, always on the lookout for new problems to solve. I work across the stack with technologies like React, Django, JavaScript, Python, Nest.js, Next.js, Gatsby, and AWS. I care deeply about clean architecture, performance, and building solutions that scale. Learning never stops — and neither does the code.
 
 
 ## 🌐 Socials:
